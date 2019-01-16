@@ -7,9 +7,9 @@ Particle filter!
 
 Implemented the following:
 
-Q1: Exact Inference: Observation
-Q2: Exact Inference: Time Elapse
-Q3: Exact Inference: Full System
+Q1: Exact Inference: Observation  
+Q2: Exact Inference: Time Elapse  
+Q3: Exact Inference: Full System  
 
 Please use Python 2.7.
 
